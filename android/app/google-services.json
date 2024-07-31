@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078621587478",
+    "project_id": "vijay-13641",
+    "storage_bucket": "vijay-13641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078621587478:android:553e0ca0b83537ee324d37",
+        "android_client_info": {
+          "package_name": "com.example.vijay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg6TmvYTtgCAbqfSVgxFIBWWKLx4aPD9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
